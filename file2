@@ -8,7 +8,7 @@ public class JunitTestCaseExample {
         students.remove(name);  
     }  
       
-    public void add(String name) {  
+    public void add(String name1) {  
         students.add(name);  
     }  
       
